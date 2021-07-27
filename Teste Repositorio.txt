@@ -1,0 +1,4 @@
+git status (Verficação)
+git add (para colocar na caixa)
+git commit -m "Mensagem Opcional(Comentário importante)" (Envelopar/lacrar caixa)
+git push (Ponta pé, Subir)
