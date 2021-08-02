@@ -1,7 +1,6 @@
 ## Olá, seja bem vindo 👋
 
 -🔭 I am currently studying Android/Kotlin 💻📱<br>
--🌱 I am currently learning kotlin/android fundamentals<br>
 -💬 Ask me about Kotlin | Android Framework or about anything<br>
 -📫 How to reach me: Linkedin - https://www.linkedin.com/in/gabriel-hora/<br>
 -⚡ Amazing fact: Mobile apps are used more than websites.<br>
