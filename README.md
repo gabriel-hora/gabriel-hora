@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo 👋
 
--🔭 I am currently studying Android/Kotlin 💻📱<br>
--💬 Ask me about Kotlin | Android Framework or about anything<br>
--📫 How to reach me: Linkedin - https://www.linkedin.com/in/gabriel-hora/<br>
+-🔭 FATEC / Análise e Desenvolvimento de Sistemas (Em curso) 💻📱<br>
+-💬 Digital House / Desenvolvimento Android - Kotlin<br>
+-📫 Como me achar: Linkedin - https://www.linkedin.com/in/gabriel-hora/<br>
 -⚡ Amazing fact: Mobile apps are used more than websites.<br>
 
 <div>
