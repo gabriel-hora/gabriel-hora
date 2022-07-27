@@ -2,7 +2,7 @@
 
 -🔭 FATEC / Análise e Desenvolvimento de Sistemas (Em curso) 💻📱<br>
 -💬 Digital House / Desenvolvimento Android - Kotlin<br>
--📫 Como me achar: gabriel.hora@fatec.sp.gov.br<br>
+-📫 Como me achar: gabrielhoradeveloper@gmail.com<br>
 -⚡ Amazing fact: Mobile apps are used more than websites.<br>
 
 <div>
